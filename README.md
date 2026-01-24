@@ -12,7 +12,7 @@ VERIFIEZ BIEN QUE L'ADDON EST ACTIF ! (Game Menu > AddOns > Cl_Textures)
 
 ## Plater
 
-Ce profile fonctionne avec une whitelist pour les buffs, pour tracker ceux qui vous intéresse allez dans les options de Plater puis Suivi des buffs.
+Ce profile fonctionne avec une whitelist pour les debuffs, pour tracker ceux qui vous intéresse allez dans les options de Plater puis Suivi des buffs.
 
 Les couleurs des nameplates :
 
