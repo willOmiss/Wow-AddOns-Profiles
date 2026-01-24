@@ -1,10 +1,12 @@
 ## Installation
 
+Dans ce repo vous trouverez un dossier de textures et des fichiers au nom des AddOns, ils contiennent les profiles.
+
 Pour pouvoir profiter au max de mes profiles (et ça veut dire avoir les bonnes textures),
 
 vous devez récupérer le dossier CL_Textures et le rajouter dans le dossier avec vos autres AddOns, généralement :
 
-C:\Program Files (x86)\World of Warcraft_retail\_\Interface\AddOns
+C:\Program Files (x86)\World of Warcraft\_retail\_\Interface\AddOns
 
 VERIFIEZ BIEN QUE L'ADDON EST ACTIF ! (Game Menu > AddOns > Cl_Textures)
 
@@ -23,7 +25,7 @@ Si DPS/HEAL :
 - Vert : Aggro sur le tank
 - Violet : Quelqu'un d'autre que le tank a l'aggro
 
-Si tank :
+Spécificités tank :
 
 - Vert : L'aggro est sur toi
 - Jaune : L'aggroe st sur toi mais faible
