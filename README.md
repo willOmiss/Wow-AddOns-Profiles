@@ -1,3 +1,5 @@
+![Image](https://i.imgur.com/z9z64Q9.png)
+
 ## Installation
 
 Dans ce repo vous trouverez un dossier de textures et des fichiers au nom des AddOns, ils contiennent les profiles.
