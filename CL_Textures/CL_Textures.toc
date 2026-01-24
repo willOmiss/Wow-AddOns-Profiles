@@ -1,0 +1,7 @@
+## Title: CL_Textures
+## Notes : Fonts and bar textures for my profiles
+## Author: CL
+## Version: 1.0
+## Interface: 110207, 120000, 120001
+
+media.lua
