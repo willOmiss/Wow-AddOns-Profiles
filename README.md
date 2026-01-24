@@ -20,7 +20,7 @@ Les couleurs des nameplates :
 
 Si DPS/HEAL :
 
-- Gris: PNJ neutral
+- Gris : PNJ neutral
 - Bleu : Ennemi pas aggro/pas en combat
 - Rouge : Aggro sur toi
 - Jaune : Risque d'aggro très élevé sur toi
@@ -37,7 +37,8 @@ Spécificités tank :
 
 Couleur des casts :
 
-- Jaune : Normal
+- Gris : Pas d'interrupt sur celui la, besoin d'un hard CC
+- Jaune : Cast normal
 - Vert : Canalisé
 - Bleu : Important
 
