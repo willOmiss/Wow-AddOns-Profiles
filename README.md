@@ -1,29 +1,35 @@
+WIP V1.0 de pré-lancement
+
+![Image](https://i.imgur.com/z9z64Q9.png)
+
 ## Installation
+
+Dans ce repo vous trouverez un dossier de textures et des fichiers au nom des AddOns, ils contiennent les profiles.
 
 Pour pouvoir profiter au max de mes profiles (et ça veut dire avoir les bonnes textures),
 
 vous devez récupérer le dossier CL_Textures et le rajouter dans le dossier avec vos autres AddOns, généralement :
 
-C:\Program Files (x86)\World of Warcraft_retail\_\Interface\AddOns
+C:\Program Files (x86)\World of Warcraft\\_retail\_\Interface\AddOns
 
-VERIFIEZ BIEN QUE L'ADDON EST ACTIF ! (Game Menu > AddOns > Cl_Textures)
+VERIFIEZ BIEN QUE L'ADDON EST ACTIF ! (Game Menu > AddOns > CL_Textures)
 
 ## Plater
 
-Ce profile fonctionne avec une whitelist pour les buffs, pour tracker ceux qui vous intéresse allez dans les options de Plater puis Suivi des buffs.
+Ce profile fonctionne avec une whitelist pour les debuffs, pour tracker ceux qui vous intéresse allez dans les options de Plater puis Suivi des buffs.
 
 Les couleurs des nameplates :
 
 Si DPS/HEAL :
 
-- Gris: PNJ neutral
+- Gris : PNJ neutral
 - Bleu : Ennemi pas aggro/pas en combat
 - Rouge : Aggro sur toi
 - Jaune : Risque d'aggro très élevé sur toi
 - Vert : Aggro sur le tank
 - Violet : Quelqu'un d'autre que le tank a l'aggro
 
-Si tank :
+Spécificités tank :
 
 - Vert : L'aggro est sur toi
 - Jaune : L'aggroe st sur toi mais faible
@@ -33,7 +39,8 @@ Si tank :
 
 Couleur des casts :
 
-- Jaune : Normal
+- Gris : Pas d'interrupt sur celui la, besoin d'un hard CC
+- Jaune : Cast normal
 - Vert : Canalisé
 - Bleu : Important
 
