@@ -1,6 +1,7 @@
-WIP V1.0 de pré-lancement
+V2.0 avec le lancement de Midnight
 
-![Image](https://i.imgur.com/z9z64Q9.png)
+![Danders frames 1](https://i.imgur.com/fXN6DRE.png)
+![Danders frames 2](https://i.imgur.com/ZCeVpjr.png)
 
 ## Installation
 
@@ -15,8 +16,6 @@ C:\Program Files (x86)\World of Warcraft\\_retail\_\Interface\AddOns
 VERIFIEZ BIEN QUE L'ADDON EST ACTIF ! (Game Menu > AddOns > CL_Textures)
 
 ## Plater
-
-Ce profile fonctionne avec une whitelist pour les debuffs, pour tracker ceux qui vous intéresse allez dans les options de Plater puis Suivi des buffs.
 
 Les couleurs des nameplates :
 
@@ -46,4 +45,4 @@ Couleur des casts :
 
 ## Danders Frames
 
-Ce profile a une disposition dans le style "healer" avec les frames en dessous, vous pouvez jouer avec les options de Danders Frames pour y déplacer au besoin.
+Ce profile a une disposition dans le style "healer" et vu que je joue rdrood il est configuré pour cette spé. Vous pouvez jouez avec les options et notamment l'aura designer de danders frames pour y adapter a vos besoins.
