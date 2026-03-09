@@ -2,6 +2,8 @@ V2.0 avec le lancement de Midnight
 
 ![Danders frames 1](https://i.imgur.com/fXN6DRE.png)
 ![Danders frames 2](https://i.imgur.com/ZCeVpjr.png)
+![Cooldown manager](https://i.imgur.com/VlcrXz5.png)
+![Plater](https://i.imgur.com/7hHQtvH.png)
 
 ## Installation
 
