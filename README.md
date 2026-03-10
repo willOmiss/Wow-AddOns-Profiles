@@ -1,4 +1,5 @@
 V2.0 avec le lancement de Midnight
+Liste des AddOns : Plater, Danders frames, Unhalted unit frames, Better cooldown manager, Details
 
 ![Danders frames 1](https://i.imgur.com/fXN6DRE.png)
 ![Danders frames 2](https://i.imgur.com/ZCeVpjr.png)
