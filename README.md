@@ -29,15 +29,12 @@ Si DPS/HEAL :
 - Rouge : Aggro sur toi
 - Jaune : Risque d'aggro très élevé sur toi
 - Vert : Aggro sur le tank
-- Violet : Quelqu'un d'autre que le tank a l'aggro
 
 Spécificités tank :
 
 - Vert : L'aggro est sur toi
-- Jaune : L'aggroe st sur toi mais faible
-- Violet : Aggro sur un autre tank
+- Jaune : L'aggro est sur toi mais faible
 - Rouge : Pas d'aggro sur toi ou un autre tank
-- Bleu clair : Reprendre l'aggro d'un autre tank
 
 Couleur des casts :
 
