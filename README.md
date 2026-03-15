@@ -44,6 +44,18 @@ Couleur des casts :
 - Vert : Canalisé
 - Bleu : Important
 
+## Better Cooldown Manager
+
+Comparaison des 2 profiles avec des screens d'example :
+
+Un profile avec une barre secondaire plus visible et une barre de cast qui l'est moins
+
+![Complet](https://i.imgur.com/3MZesOY.png)
+
+Ou un profile où on a l'inverse : barre secondaire plus mionimaliste et barre de cast plus visible
+
+![Minimaliste](https://i.imgur.com/TQgmRa4.png)
+
 ## Danders Frames
 
 Ce profile a une disposition dans le style "healer" et vu que je joue rdrood il est configuré pour cette spé. Vous pouvez jouez avec les options et notamment l'aura designer de danders frames pour y adapter a vos besoins.
