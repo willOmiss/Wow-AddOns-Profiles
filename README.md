@@ -1,11 +1,12 @@
-V2.2
-Liste des AddOns : Plater, Danders frames, Unhalted unit frames, Better cooldown manager, Details
+V2.3
+Liste des AddOns : Plater, Danders frames, Unhalted unit frames, Better cooldown manager, Details, MPlusTimer
 
 ![Danders frames 1](https://i.imgur.com/fXN6DRE.png)
 ![Danders frames 2](https://i.imgur.com/ZCeVpjr.png)
 ![Cooldown manager](https://i.imgur.com/VlcrXz5.png)
 ![Details](https://i.imgur.com/Zk7JrgD.png)
 ![Plater](https://i.imgur.com/7hHQtvH.png)
+![MPlusTimer](https://i.imgur.com/edru50j.png)
 
 ## Installation
 
