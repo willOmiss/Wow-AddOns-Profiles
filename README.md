@@ -1,4 +1,4 @@
-V2.0 avec le lancement de Midnight
+V2.2
 Liste des AddOns : Plater, Danders frames, Unhalted unit frames, Better cooldown manager, Details
 
 ![Danders frames 1](https://i.imgur.com/fXN6DRE.png)
@@ -18,6 +18,30 @@ vous devez récupérer le dossier CL_Textures et le rajouter dans le dossier ave
 C:\Program Files (x86)\World of Warcraft\\_retail\_\Interface\AddOns
 
 VERIFIEZ BIEN QUE L'ADDON EST ACTIF ! (Game Menu > AddOns > CL_Textures)
+
+
+## Better Cooldown Manager
+
+Comparaison des 3 profiles avec des screens d'example (sans barre secondaire v1/v2 sont identiques) :
+
+(v1) Un profile avec une barre secondaire plus visible et une barre de cast qui l'est moins
+
+![v1](https://i.imgur.com/3MZesOY.png)
+
+(v2) Un profile où on a l'inverse : barre secondaire plus minimaliste et barre de cast plus visible
+
+![v2](https://i.imgur.com/TQgmRa4.png)
+
+(v3) Un profile avec des icones un peu plus partout pour ceux qui ont pleins de spells à organiser
+
+![v3](https://i.imgur.com/wadIgzc.png)
+![v3 bis](https://i.imgur.com/lmujunc.png)
+
+Pour personnaliser les zones bonus qui ne sont pas de base (cad hors Essential/Utility/Buff), dans les options (/cdm) :
+- Sous la barre de vie : 'Items / Spells'
+- En haut à gauche : 'Custom'
+- En haut à droite : 'Additional Custom'
+
 
 ## Plater
 
@@ -44,18 +68,8 @@ Couleur des casts :
 - Vert : Canalisé
 - Bleu : Important
 
-## Better Cooldown Manager
-
-Comparaison des 2 profiles avec des screens d'example :
-
-Un profile avec une barre secondaire plus visible et une barre de cast qui l'est moins
-
-![Complet](https://i.imgur.com/3MZesOY.png)
-
-Ou un profile où on a l'inverse : barre secondaire plus mionimaliste et barre de cast plus visible
-
-![Minimaliste](https://i.imgur.com/TQgmRa4.png)
 
 ## Danders Frames
 
-Ce profile a une disposition dans le style "healer" et vu que je joue rdrood il est configuré pour cette spé. Vous pouvez jouez avec les options et notamment l'aura designer de danders frames pour y adapter a vos besoins.
+Ce profile a une disposition dans le style "healer" (cad a l'horizontal au milieu bas de l'écran). Vous pouvez jouez avec les options pour y déplacer.
+Pour les healers autres que rdrood, les hots ne sont pas configurés, il faudra jouer avec l'aura manager ou le désactiver si vous n'en voulez pas.
